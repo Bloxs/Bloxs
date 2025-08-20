@@ -7,12 +7,12 @@ The best way to message me is via [twitter](https://twitter.com/blocksnmore). I 
 ## Flex Zone
 ### Github Stats
 <div style="display: flex;" align="center">
-  <img src="https://readme-stats-gules.vercel.app/api?username=Blocksnmore&bg_color=23272A&show_icons=true&count_private=true&title_color=fff&text_color=fff&icon_color=3d34eb&hide_border=true&border_radius=10" alt="Bloxs' Github Stats" style="height: 13rem" />
- <img src="https://readme-stats-gules.vercel.app/api/top-langs/?username=Blocksnmore&layout=donut&count_private=true&hide_border=true&bg_color=23272A&title_color=fff&text_color=fff&icon_color=3d34eb&border_radius=10" alt="Bloxs' Github Languages" style="height: 13rem;" />
+  <img src="https://readme-stats-gules.vercel.app/api?username=Bloxs&bg_color=23272A&show_icons=true&count_private=true&title_color=fff&text_color=fff&icon_color=3d34eb&hide_border=true&border_radius=10" alt="Bloxs' Github Stats" style="height: 13rem" />
+ <img src="https://readme-stats-gules.vercel.app/api/top-langs/?username=Bloxs&layout=donut&count_private=true&hide_border=true&bg_color=23272A&title_color=fff&text_color=fff&icon_color=3d34eb&border_radius=10" alt="Bloxs' Github Languages" style="height: 13rem;" />
 </div>
 <div style="display: flex;" align="center">
-  <img src="https://streak-stats.demolab.com?user=Blocksnmore&theme=github-dark-blue&hide_border=true" alt="Bloxs' Commit Streak">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blocksnmore&theme=github_dark" alt="Bloxs' Top Committed Languages">
+  <img src="https://streak-stats.demolab.com?user=Bloxs&theme=github-dark-blue&hide_border=true" alt="Bloxs' Commit Streak">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bloxs&theme=github_dark" alt="Bloxs' Top Committed Languages">
 </div>
 
 ### IDE Stats
