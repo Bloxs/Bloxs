@@ -18,7 +18,7 @@ The best way to message me is via [twitter](https://twitter.com/blocksnmore). I 
 ### IDE Stats
 *I currently don't code in perl, so any time spent developing in `Mason` is me developing in `mcfunction` using a library for compiling custom code to functions
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C055%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C056%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.33%20million%20lines%20of%20code-blue?style=flat)
 
@@ -26,17 +26,17 @@ The best way to message me is via [twitter](https://twitter.com/blocksnmore). I 
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 7 mins        ███████████████████████░░   91.74 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+TypeScript               4 hrs               ██████████████████████░░░   89.93 % 
+JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 23 mins       █████████████████████████   99.40 % 
-IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+VS Code                  4 hrs 26 mins       █████████████████████████   99.54 % 
+IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 
- Last Updated on 15/01/2026 05:33:37 UTC
+ Last Updated on 16/01/2026 05:33:04 UTC
 <!--END_SECTION:waka-->
