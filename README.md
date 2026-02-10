@@ -26,15 +26,12 @@ The best way to message me is via [twitter](https://twitter.com/blocksnmore). I 
 
 ```text
 💬 Programming Languages: 
-Java                     53 mins             ███████████████████████░░   93.25 % 
-TypeScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            53 mins             ███████████████████████░░   93.25 % 
-VS Code                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/02/2026 06:13:22 UTC
+ Last Updated on 10/02/2026 06:17:50 UTC
 <!--END_SECTION:waka-->
