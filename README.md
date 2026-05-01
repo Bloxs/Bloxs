@@ -26,17 +26,17 @@ The best way to message me is via [twitter](https://twitter.com/blocksnmore). I 
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 5 mins        ██████████████░░░░░░░░░░░   57.39 % 
-Java                     1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   32.97 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+TypeScript               2 hrs               ██████████████░░░░░░░░░░░   56.24 % 
+Java                     1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   33.86 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 8 mins        ███████████████░░░░░░░░░░   58.42 % 
-VS Code                  1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   41.58 % 
+IntelliJ IDEA            2 hrs 2 mins        ██████████████░░░░░░░░░░░   57.30 % 
+VS Code                  1 hr 31 mins        ███████████░░░░░░░░░░░░░░   42.70 % 
 ```
 
 
- Last Updated on 30/04/2026 07:39:09 UTC
+ Last Updated on 01/05/2026 07:34:33 UTC
 <!--END_SECTION:waka-->
