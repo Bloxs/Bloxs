@@ -18,7 +18,7 @@ The best way to message me is via [twitter](https://twitter.com/blocksnmore). I 
 ### IDE Stats
 *I currently don't code in perl, so any time spent developing in `Mason` is me developing in `mcfunction` using a library for compiling custom code to functions
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C122%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C122%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.36%20million%20lines%20of%20code-blue?style=flat)
 
@@ -26,17 +26,18 @@ The best way to message me is via [twitter](https://twitter.com/blocksnmore). I 
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 24 mins        ██████████████░░░░░░░░░░░   54.24 % 
-TypeScript               56 mins             █████████░░░░░░░░░░░░░░░░   35.89 % 
-C/C++                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+C                        1 hr 24 mins        ████████████░░░░░░░░░░░░░   46.93 % 
+TypeScript               1 hr 19 mins        ███████████░░░░░░░░░░░░░░   43.71 % 
+C/C++                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-CLion                    1 hr 42 mins        ████████████████░░░░░░░░░   65.24 % 
-VS Code                  40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-IntelliJ IDEA            14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+CLion                    1 hr 42 mins        ██████████████░░░░░░░░░░░   56.44 % 
+VS Code                  1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   35.65 % 
+IntelliJ IDEA            14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 ```
 
 
- Last Updated on 06/05/2026 07:44:37 UTC
+ Last Updated on 07/05/2026 07:52:32 UTC
 <!--END_SECTION:waka-->
