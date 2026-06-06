@@ -18,7 +18,7 @@ The best way to message me is via [twitter](https://twitter.com/blocksnmore). I 
 ### IDE Stats
 *I currently don't code in perl, so any time spent developing in `Mason` is me developing in `mcfunction` using a library for compiling custom code to functions
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C177%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C180%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.35%20million%20lines%20of%20code-blue?style=flat)
 
@@ -26,17 +26,17 @@ The best way to message me is via [twitter](https://twitter.com/blocksnmore). I 
 
 ```text
 💬 Programming Languages: 
-Mason                    5 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.66 % 
-Other                    4 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   39.24 % 
-Java                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-mcfunction               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Other                    7 hrs 40 mins       ███████████████░░░░░░░░░░   59.85 % 
+Mason                    3 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+Java                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+mcfunction               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 17 mins      ███████████████████████░░   91.11 % 
-IntelliJ IDEA            1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+VS Code                  11 hrs 49 mins      ███████████████████████░░   92.17 % 
+IntelliJ IDEA            1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 ```
 
 
- Last Updated on 05/06/2026 08:56:44 UTC
+ Last Updated on 06/06/2026 07:58:52 UTC
 <!--END_SECTION:waka-->
