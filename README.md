@@ -22,6 +22,17 @@ The best way to message me is via [twitter](https://twitter.com/blocksnmore). I 
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.35%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 19/06/2026 09:41:36 UTC
+```text
+💬 Programming Languages: 
+JSON                     48 mins             ████████████████████████░   97.38 % 
+TSConfig                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+
+🔥 Editors: 
+VS Code                  49 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 20/06/2026 08:34:21 UTC
 <!--END_SECTION:waka-->
