@@ -26,13 +26,12 @@ The best way to message me is via [twitter](https://twitter.com/blocksnmore). I 
 
 ```text
 💬 Programming Languages: 
-JSON                     48 mins             ████████████████████████░   97.38 % 
-TSConfig                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/06/2026 09:12:21 UTC
+ Last Updated on 22/06/2026 10:53:57 UTC
 <!--END_SECTION:waka-->
