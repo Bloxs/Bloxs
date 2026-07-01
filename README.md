@@ -25,7 +25,7 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 #### Wakatime IDE Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C183%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C183%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.35%20million%20lines%20of%20code-blue?style=flat)
 
@@ -33,12 +33,12 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/06/2026 08:44:12 UTC
+ Last Updated on 01/07/2026 09:04:05 UTC
 <!--END_SECTION:waka-->
