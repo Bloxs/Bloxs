@@ -25,7 +25,7 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 #### Wakatime IDE Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C184%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C188%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.35%20million%20lines%20of%20code-blue?style=flat)
 
@@ -33,20 +33,21 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 25 mins        ████████████████████████░   95.88 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+TypeScript               3 hrs 44 mins       ██████████████████░░░░░░░   71.67 % 
+Java                     1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 28 mins        █████████████████████████   98.59 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+VS Code                  3 hrs 44 mins       ██████████████████░░░░░░░   71.78 % 
+IntelliJ IDEA            1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   28.22 % 
 
 💻 Operating System: 
-Linux                    1 hr 29 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 43 mins       ██████████████████░░░░░░░   71.38 % 
+Linux                    1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   28.62 % 
 ```
 
 
- Last Updated on 07/04/2026 05:58:58 UTC
+ Last Updated on 07/04/2026 08:01:24 UTC
 <!--END_SECTION:waka-->
