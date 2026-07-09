@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey, I'm Bloxs
-I'm a self-taught FullStack Developer currently studying for my degree
+I'm a self-taught Full Stack Developer currently studying for my degree
 
-Currently working as a developer for a public school writing internal apps in React + Hono
+Currently working as a software developer + occasional sysadmin for a public school
 
 Primairly develop in Typescript, but also occasionally work in Java & C#
 
