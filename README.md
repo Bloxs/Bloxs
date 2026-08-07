@@ -25,35 +25,8 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 #### Wakatime IDE Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C201%20hrs%2015%20mins-blue?style=for-the-badge)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2049%20mins-blue?style=for-the-badge)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.35%20million%20lines%20of%20code-blue?style=for-the-badge)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-TypeScript               12 hrs 38 mins      █████████████████████████   98.93 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 46 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      12 hrs 46 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 08/06/2026 07:44:58 UTC
+ Last Updated on 08/07/2026 06:14:33 UTC
 <!--END_SECTION:waka-->
