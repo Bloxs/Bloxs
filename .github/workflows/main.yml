@@ -25,3 +25,5 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           UPDATED_DATE_FORMAT: "%m/%d/%Y %H:%M:%S"
           BADGE_STYLE: "for-the-badge"
+          SHOW_AI_CODING: "False"
+          SHOW_AI_CODE_TIME: "False"
