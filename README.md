@@ -25,7 +25,7 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 #### Wakatime IDE Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C236%20hrs%2053%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C242%20hrs%2039%20mins-blue?style=for-the-badge)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.35%20million%20lines%20of%20code-blue?style=for-the-badge)
 
@@ -33,19 +33,20 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 ```text
 💬 Programming Languages: 
-TypeScript               19 hrs 51 mins      █████████████████████████   99.45 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+TypeScript               21 hrs 5 mins       █████████████████████████   99.38 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 57 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 13 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      19 hrs 51 mins      █████████████████████████   99.48 % 
-Linux                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Mac                      21 hrs 7 mins       █████████████████████████   99.51 % 
+Linux                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 
 
- Last Updated on 08/25/2026 05:36:42 UTC
+ Last Updated on 08/26/2026 05:38:46 UTC
 <!--END_SECTION:waka-->
