@@ -25,7 +25,7 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 #### Wakatime IDE Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C294%20hrs%208%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C295%20hrs%206%20mins-blue?style=for-the-badge)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.67%20million%20lines%20of%20code-blue?style=for-the-badge)
 
@@ -33,21 +33,21 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 hrs 24 mins      ██████████████████████░░░   89.14 % 
-Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Scala                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Java                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+TypeScript               12 hrs 52 mins      ███████████████████████░░   93.77 % 
+Scala                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Java                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 41 mins      ████████████████████████░   97.68 % 
-IntelliJ IDEA            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+VS Code                  13 hrs 22 mins      ████████████████████████░   97.46 % 
+IntelliJ IDEA            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 💻 Operating System: 
-Mac                      14 hrs 46 mins      █████████████████████████   98.27 % 
-Linux                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Mac                      13 hrs 27 mins      █████████████████████████   98.10 % 
+Linux                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 
 
- Last Updated on 09/11/2026 09:26:40 UTC
+ Last Updated on 09/12/2026 09:06:37 UTC
 <!--END_SECTION:waka-->
