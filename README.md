@@ -25,7 +25,7 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 #### Wakatime IDE Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C302%20hrs%201%20min-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C302%20hrs%2050%20mins-blue?style=for-the-badge)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.12%20million%20lines%20of%20code-blue?style=for-the-badge)
 
@@ -33,20 +33,20 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 ```text
 💬 Programming Languages: 
-TypeScript               14 hrs 7 mins       ████████████████████████░   96.42 % 
-Scala                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Java                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+TypeScript               14 hrs 7 mins       ███████████████████████░░   91.39 % 
+Scala                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Java                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 17 mins      ████████████████████████░   97.62 % 
-IntelliJ IDEA            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+VS Code                  14 hrs 17 mins      ███████████████████████░░   92.52 % 
+IntelliJ IDEA            1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
 
 💻 Operating System: 
-Mac                      14 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/15/2026 09:52:05 UTC
+ Last Updated on 09/16/2026 09:46:55 UTC
 <!--END_SECTION:waka-->
