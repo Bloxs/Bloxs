@@ -25,7 +25,7 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 #### Wakatime IDE Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C302%20hrs%2050%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C303%20hrs%2046%20mins-blue?style=for-the-badge)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.12%20million%20lines%20of%20code-blue?style=for-the-badge)
 
@@ -33,20 +33,19 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 53 mins       ██████████████████████░░░   87.18 % 
-Scala                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Java                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               8 hrs 7 mins        █████████████████████░░░░   84.23 % 
+Scala                    1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Java                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 54 mins       ██████████████████████░░░   87.24 % 
-IntelliJ IDEA            1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+VS Code                  8 hrs 7 mins        █████████████████████░░░░   84.28 % 
+IntelliJ IDEA            1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
 
 💻 Operating System: 
-Mac                      9 hrs 3 mins        █████████████████████████   100.00 % 
+Mac                      9 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/17/2026 09:54:36 UTC
+ Last Updated on 09/18/2026 09:29:31 UTC
 <!--END_SECTION:waka-->
