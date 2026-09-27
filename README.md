@@ -25,7 +25,7 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 #### Wakatime IDE Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C320%20hrs%2041%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C325%20hrs%2019%20mins-blue?style=for-the-badge)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.13%20million%20lines%20of%20code-blue?style=for-the-badge)
 
@@ -33,20 +33,21 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 ```text
 💬 Programming Languages: 
-TypeScript               15 hrs 40 mins      ███████████████████████░░   92.65 % 
-Scala                    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+TypeScript               12 hrs 45 mins      ██████████████████████░░░   89.49 % 
+Scala                    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 49 mins      ███████████████████████░░   93.49 % 
-IntelliJ IDEA            1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+VS Code                  12 hrs 55 mins      ███████████████████████░░   90.62 % 
+IntelliJ IDEA            1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 
 💻 Operating System: 
-Mac                      16 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 1 min        █████████████████████████   98.34 % 
+Linux                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 
 
- Last Updated on 09/26/2026 09:47:26 UTC
+ Last Updated on 09/27/2026 10:27:50 UTC
 <!--END_SECTION:waka-->
