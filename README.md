@@ -25,7 +25,7 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 #### Wakatime IDE Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C333%20hrs%2058%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C338%20hrs%2033%20mins-blue?style=for-the-badge)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.33%20million%20lines%20of%20code-blue?style=for-the-badge)
 
@@ -33,20 +33,19 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 26 mins       █████████████████████░░░░   83.69 % 
-Scala                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+TypeScript               5 hrs 42 mins       █████████████████████████   98.62 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 33 mins       ██████████████████████░░░   86.02 % 
-IntelliJ IDEA            44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+VS Code                  5 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/10/2026 11:02:53 UTC
+ Last Updated on 10/11/2026 11:19:10 UTC
 <!--END_SECTION:waka-->
