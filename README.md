@@ -33,20 +33,18 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 7 mins        ████████████████████░░░░░   79.74 % 
-Scala                    1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TypeScript               3 hrs 43 mins       ███████████████████░░░░░░   74.65 % 
+Scala                    1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 22 mins       █████████████████████░░░░   83.62 % 
-IntelliJ IDEA            1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+VS Code                  3 hrs 55 mins       ████████████████████░░░░░   78.86 % 
+IntelliJ IDEA            1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
 
 💻 Operating System: 
-Mac                      6 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/23/2026 09:49:27 UTC
+ Last Updated on 10/24/2026 09:21:40 UTC
 <!--END_SECTION:waka-->
