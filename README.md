@@ -25,8 +25,28 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 #### Wakatime IDE Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C358%20hrs%2059%20mins-blue?style=for-the-badge)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.34%20million%20lines%20of%20code-blue?style=for-the-badge)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 11/03/2026 13:43:55 UTC
+```text
+💬 Programming Languages: 
+TypeScript               6 hrs 29 mins       ██████████████████████░░░   87.09 % 
+Java                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Scala                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+XML                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 29 mins       ██████████████████████░░░   87.29 % 
+IntelliJ IDEA            56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+
+💻 Operating System: 
+Mac                      7 hrs 26 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 11/04/2026 13:53:20 UTC
 <!--END_SECTION:waka-->
