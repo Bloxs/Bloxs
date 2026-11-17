@@ -33,20 +33,20 @@ Best way to reach out is via [Twitter DMs](https://twitter.com/blocksnmore), but
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 22 mins       ████████████████████░░░░░   81.83 % 
-Scala                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Caddyfile                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+TypeScript               5 hrs 20 mins       █████████████████████░░░░   85.34 % 
+Scala                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Caddyfile                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 55 mins       ███████████████████████░░   90.28 % 
-IntelliJ IDEA            38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+VS Code                  5 hrs 37 mins       ██████████████████████░░░   89.81 % 
+IntelliJ IDEA            38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 
 💻 Operating System: 
-Mac                      6 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/16/2026 14:54:14 UTC
+ Last Updated on 11/17/2026 15:35:14 UTC
 <!--END_SECTION:waka-->
